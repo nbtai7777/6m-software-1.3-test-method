@@ -7,8 +7,8 @@
     
 */
 
-const env = "DEV";      // Toggle between these possible values "DEV" | "STAGE" | "PROD"
-let databaseCredential = "devuser:password";
+const env = "DEV"; // Toggle between these possible values "DEV" | "STAGE" | "PROD"
+const databaseCredential = "devuser:password";
 
 // Task: Add code here
 switch (env) {
